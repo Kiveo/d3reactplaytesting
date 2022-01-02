@@ -1,0 +1,5 @@
+.selected {
+  stroke-width: 3px;
+  stroke: yellow;
+  filter: drop-shadow(0 0 3px rgb(255 255 0 / 1));
+}
